@@ -1,4 +1,4 @@
-# Briefcase
+# Portfolio
 
 📌 Portfolio Projects — Telegram Bots & Python Scripts
 
